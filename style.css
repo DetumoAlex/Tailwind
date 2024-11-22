@@ -121,3 +121,24 @@
 .data:last-child{
     border-right: none;
 }
+
+.rtn{
+    margin: 15px;
+    position:relative;
+    margin-bottom: 40em;
+    background-color: #61646b;
+    width: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 24px;
+    color: #fff;
+}
+
+.rtn:hover{
+    color: black;
+    background-color: rgb(201, 233, 222);
+}
